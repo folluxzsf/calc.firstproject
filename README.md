@@ -1,2 +1,2 @@
 # calc.firstproject
-My First Project in Porgramming and Github.
+My First Project in Programming and Github.
